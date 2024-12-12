@@ -23,6 +23,7 @@ INSTALLED_APPS = [
 
     # pip packages
     "rest_framework",
+    "django_filters",
 
     # internal apps
     "expenses",
